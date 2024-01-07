@@ -1,0 +1,11 @@
+{
+	"id": "echo",
+	"name": "Echo",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Generate audios for notes with ElevenLabs",
+	"author": "Aitor LLamas Jiménez",
+	"authorUrl": "https://aitorllamas.com",
+	"fundingUrl": "https://github.com/sponsors/aitorllj93",
+	"isDesktopOnly": false
+}
